@@ -69,7 +69,7 @@ st.markdown("""
 @st.cache_data
 def load_data():
     """Load all datasets with caching for better performance"""
-    data_path = Path("data")
+    # data_path = Path("data")
     # Initialize the return dictionary
     data_dict = {}
     
@@ -79,10 +79,10 @@ def load_data():
     
     try:
         # Load standard data files
-        patients = pd.read_csv(data_path / "patients.csv")
-        conditions = pd.read_csv(data_path / "conditions.csv")
-        observations = pd.read_csv(data_path / "observations.csv")
-        encounters = pd.read_csv(data_path / "encounters.csv")
+        patients = pd.read_csv("patients.csv")
+        conditions = pd.read_csv("conditions.csv")
+        observations = pd.read_csv("observations.csv")
+        encounters = pd.read_csv("encounters.csv")
         
         # Add to data dictionary
         data_dict['patients'] = patients
@@ -92,7 +92,7 @@ def load_data():
         
         # Try to load the new risk assessment file if it exists
         try:
-            risk_assessment = pd.read_csv(data_path / "risk_assessment.csv")
+            risk_assessment = pd.read_csv("risk_assessment.csv")
             data_dict['risk_assessment'] = risk_assessment
             
             # Use risk_assessment as high_risk_report if it has the required columns
