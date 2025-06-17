@@ -1,0 +1,251 @@
+Id,BIRTHDATE,RACE,ETHNICITY,GENDER,BIRTHPLACE,ADDRESS,CITY,STATE,COUNTY,INCOME,BMI,SMOKER,ALCOHOLIC,AGE,PATIENT,Chronic_Condition_Count,Risk_Category
+4aa24740-d774-26a0-f620-56177f4cce14,1943-09-20,asian,hispanic,M,La Paz  Baja California  MX,632 Spinka Trafficway,Garden Grove,California,Orange County,22422,27.8,Yes,No,82,0,0.0,Moderate Risk
+4113255f-4e35-506a-ddef-4429caa17ffc,1961-06-21,white,nonhispanic,F,Boyes Hot Springs  California  US,946 Carroll Arcade Suite 20,Los Angeles,California,Los Angeles County,45680,28.7,Yes,No,64,0,0.0,Moderate Risk
+f255ccfb-09b8-8b35-9c4d-13eaaab28242,1935-08-25,white,nonhispanic,M,Los Angeles  California  US,521 Abbott Boulevard Unit 23,Lake of the Pines,California,Nevada County,43567,61.2,Yes,No,90,0,0.0,High Risk
+6b060c17-b5af-82b5-0417-38644cf1fef5,1965-07-09,black,hispanic,M,San Jose  San Jose  CR,129 Brakus Burg,Fontana,California,San Bernardino County,70549,30.4,Yes,No,60,0,0.0,Moderate Risk
+056ded2d-827e-1cf1-199c-5561d7884437,1919-02-19,white,nonhispanic,F,Corona  California  US,576 Wolff Divide Suite 39,Lancaster,California,Los Angeles County,11123,30.5,Yes,No,106,0,0.0,High Risk
+e0b758ad-b2b3-8de6-ea86-e7cfb37eeaa4,1947-10-12,white,hispanic,F,San Francisco  California  US,355 Kulas Passage Apt 81,Hawthorne,California,Los Angeles County,45097,27.5,Yes,No,78,0,0.0,Moderate Risk
+c9106318-4749-a64f-9e10-83344df07487,1943-07-08,asian,nonhispanic,F,East Los Angeles  California  US,197 Hickle Mall Apt 49,Long Beach,California,Los Angeles County,44748,18.0,Yes,No,82,0,0.0,Moderate Risk
+44a768e0-cb42-a90e-4eb4-1c1c817bc0a3,1942-02-22,white,hispanic,M,Simi Valley  California  US,108 Nitzsche Light,Chowchilla,California,Madera County,14963,27.6,Yes,No,83,0,0.0,Moderate Risk
+4f067e02-3079-9044-3d62-68100f53939c,1946-04-12,black,hispanic,F,Wesley  Saint Andrew Parish  DM,300 Cummerata Throughway Apt 7,Victorville,California,San Bernardino County,93556,27.0,Yes,No,79,0,0.0,Moderate Risk
+18d40aea-632a-8bd9-8a13-698cf5894155,1944-06-09,white,nonhispanic,F,Lynwood  California  US,505 Ryan Trafficway Unit 33,El Paso de Robles (Paso Robles),California,San Luis Obispo County,127897,29.6,Yes,No,81,0,0.0,Moderate Risk
+2b440c6c-29db-af6a-02a2-30a13411bf78,1983-05-16,white,nonhispanic,M,Taft  California  US,611 Grant Trafficway,Torrance,California,Los Angeles County,156762,62.6,Yes,No,42,0,0.0,Moderate Risk
+ef8df187-dc9d-6835-3b16-393b9344eb04,1973-05-17,white,hispanic,F,Rancho Cordova  California  US,1094 Green Rue,Colton,California,San Bernardino County,21162,27.8,Yes,No,52,0,0.0,Moderate Risk
+318ab8c8-e50e-b598-f598-027a7ea2d3a1,1964-04-03,white,hispanic,M,Guatemala City  Guatemala  GT,144 Pfeffer Skyway,West Sacramento,California,Yolo County,14573,30.2,Yes,No,61,0,0.0,Moderate Risk
+95a42c1d-dce6-e4b0-5a51-3408f433c248,1992-06-11,white,hispanic,F,Roseau  Saint George  DM,188 Jacobson Trace Suite 67,Petaluma,California,Sonoma County,198717,21.1,Yes,No,33,0,0.0,Low Risk
+c6d2e514-6578-553e-8c6f-3c315c232ae5,1962-03-24,asian,hispanic,F,Ponce  Puerto Rico  PR,892 Jacobson Union,Los Angeles,California,Los Angeles County,11861,30.1,Yes,No,63,0,0.0,Moderate Risk
+92053b9f-875a-fe89-1b55-f7a91485d670,1943-09-20,asian,hispanic,M,Tegucigalpa  Francisco Morazán  HN,807 Tromp Common Apt 84,Garden Grove,California,Orange County,22422,28.0,Yes,No,82,0,0.0,Moderate Risk
+318ab8c8-e50e-b598-f598-027a7ea2d3a1,1964-04-03,white,hispanic,M,Guatemala City  Guatemala  GT,144 Pfeffer Skyway,West Sacramento,California,Yolo County,14573,29.1,Yes,No,61,0,0.0,Moderate Risk
+24f4d2f1-b4ef-0654-25a3-bdce21e7ceef,2003-11-27,white,nonhispanic,F,La Mesa  California  US,686 Beatty Avenue,Claremont,California,Los Angeles County,547869,20.6,Yes,No,22,0,0.0,Low Risk
+0214601c-f5dd-d9fe-ed1b-4139ed94ab56,1919-11-07,white,nonhispanic,M,Fresno  California  US,464 Hyatt Annex Apt 5,Lake of the Pines,California,Nevada County,43567,30.2,Yes,No,106,0,0.0,High Risk
+2b283224-3047-1486-e2fa-f7044e5ab67e,1962-02-11,white,nonhispanic,M,Santa Ana  California  US,416 Thompson Track Apt 50,San Diego,California,San Diego County,107301,27.9,Yes,No,63,0,0.0,Moderate Risk
+0b17c51f-e991-4f60-99be-f067e315bfa3,1974-03-13,asian,hispanic,M,Montebello  California  US,386 Thompson Neck,Sunnyvale,California,Santa Clara County,37750,75.0,Yes,No,51,0,0.0,Moderate Risk
+bf6eb2f3-573c-7b5c-e4d1-0f6cd471d2d7,1942-02-22,white,hispanic,M,Burbank  California  US,909 Denesik Manor,Chowchilla,California,Madera County,14963,12.1,Yes,No,83,0,0.0,Moderate Risk
+a89bf1cb-e014-0243-c671-7df0230da865,1964-11-12,white,hispanic,F,Baldwin Park  California  US,199 Hodkiewicz Annex Apt 1,La Puente,California,Los Angeles County,2800,25.5,Yes,No,61,0,0.0,Moderate Risk
+318ab8c8-e50e-b598-f598-027a7ea2d3a1,1964-04-03,white,hispanic,M,Guatemala City  Guatemala  GT,144 Pfeffer Skyway,West Sacramento,California,Yolo County,14573,28.7,Yes,No,61,0,0.0,Moderate Risk
+97ad9541-09f1-48ad-6149-3fd8f9759d60,1980-01-04,white,hispanic,M,Panama City  Panama  PA,557 Baumbach Byway,North Tustin,California,Orange County,186119,27.5,Yes,No,45,0,0.0,Low Risk
+d26c622a-5549-ff41-d5a0-0c1223ec1685,1942-02-22,white,hispanic,M,Fremont  California  US,409 Nikolaus Branch,Chowchilla,California,Madera County,14963,30.5,Yes,No,83,0,0.0,High Risk
+6e7b2121-8131-8908-29b1-e815f92aadcb,1992-06-19,white,hispanic,F,Kingston  Kingston  JM,525 Nicolas Center,Los Angeles,California,Los Angeles County,58358,16.7,Yes,No,33,0,0.0,Low Risk
+22fb55ed-29d4-9126-4e4f-9ca24df613b2,1973-02-24,white,nonhispanic,F,Temecula  California  US,481 Bradtke Bridge Unit 77,Paramount,California,Los Angeles County,2028,30.1,Yes,No,52,0,0.0,Moderate Risk
+3e8e1390-f955-a954-4f58-999c63000e88,1941-09-22,white,hispanic,F,San Salvador  El Salvador  SV,776 McGlynn Forge Suite 20,Lancaster,California,Los Angeles County,21960,21.2,Yes,No,84,0,0.0,Moderate Risk
+03c7ae65-5a29-9a6d-b6ec-658c6f5d9e45,1919-11-07,white,nonhispanic,M,Whittier  California  US,655 Muller Avenue Apt 19,Lake of the Pines,California,Nevada County,43567,27.7,Yes,No,106,0,0.0,Moderate Risk
+dd7b82c0-817d-8285-9b5b-d997c6b13fe3,1941-09-22,white,hispanic,F,Port-au-Prince  Haiti  HT,872 Botsford Track,Lancaster,California,Los Angeles County,21960,20.7,Yes,No,84,0,0.0,Moderate Risk
+44a768e0-cb42-a90e-4eb4-1c1c817bc0a3,1942-02-22,white,hispanic,M,Simi Valley  California  US,108 Nitzsche Light,Chowchilla,California,Madera County,14963,27.6,Yes,No,83,0,0.0,Moderate Risk
+0214601c-f5dd-d9fe-ed1b-4139ed94ab56,1919-11-07,white,nonhispanic,M,Fresno  California  US,464 Hyatt Annex Apt 5,Lake of the Pines,California,Nevada County,43567,28.6,Yes,No,106,0,0.0,Moderate Risk
+dd7b82c0-817d-8285-9b5b-d997c6b13fe3,1941-09-22,white,hispanic,F,Port-au-Prince  Haiti  HT,872 Botsford Track,Lancaster,California,Los Angeles County,21960,29.8,Yes,No,84,0,0.0,Moderate Risk
+b2969c4c-3057-3ba7-307f-145e4e8cd94c,1919-11-07,white,nonhispanic,M,Elk Grove  California  US,532 Sipes Lock Suite 21,Lake of the Pines,California,Nevada County,43567,31.0,Yes,No,106,0,0.0,High Risk
+97ad9541-09f1-48ad-6149-3fd8f9759d60,1980-01-04,white,hispanic,M,Panama City  Panama  PA,557 Baumbach Byway,North Tustin,California,Orange County,186119,27.9,Yes,No,45,0,0.0,Low Risk
+318ab8c8-e50e-b598-f598-027a7ea2d3a1,1964-04-03,white,hispanic,M,Guatemala City  Guatemala  GT,144 Pfeffer Skyway,West Sacramento,California,Yolo County,14573,30.2,Yes,No,61,0,0.0,Moderate Risk
+a9585cf3-ae5f-01cd-406e-c3cd4d2ea0c2,1953-03-03,white,nonhispanic,F,Huntington Park  California  US,945 Cummerata Vale Apt 0,Riverside,California,Riverside County,176908,15.5,Yes,No,72,0,0.0,Moderate Risk
+63a7dc6b-174c-af4f-9d42-3b96fff82bc5,1988-06-15,black,hispanic,M,Lima  Lima Province  PE,1065 Emmerich Mission Unit 44,San Diego,California,San Diego County,69866,31.9,Yes,No,37,0,0.0,Moderate Risk
+19a45930-d27a-75e6-d956-fb3e1cb3cd54,1943-11-02,white,nonhispanic,F,South San Francisco  California  US,903 Littel Promenade Suite 82,Oceanside,California,San Diego County,39885,28.0,Yes,No,82,0,0.0,Moderate Risk
+9a8a8cdd-d5e2-e69a-c5cf-4a09eecb37dc,1945-07-22,white,nonhispanic,M,Bell Gardens  California  US,816 Kuhn Trace Suite 60,Garden Grove,California,Orange County,14482,30.4,Yes,No,80,0,0.0,High Risk
+19a45930-d27a-75e6-d956-fb3e1cb3cd54,1943-11-02,white,nonhispanic,F,South San Francisco  California  US,903 Littel Promenade Suite 82,Oceanside,California,San Diego County,39885,28.0,Yes,No,82,0,0.0,Moderate Risk
+c4ec0f6e-e684-c272-5209-54302ff117e3,1962-04-08,black,nonhispanic,F,Los Angeles  California  US,965 Bogisich Corner Unit 13,Millbrae,California,San Mateo County,9976,30.4,Yes,No,63,0,0.0,Moderate Risk
+cd8c506f-9427-e6f5-81c9-6e1a8e299e0c,1915-08-05,white,nonhispanic,F,Bay Point  California  US,291 Nader Key,Salinas,California,Monterey County,51472,26.3,Yes,No,110,0,0.0,Moderate Risk
+009895a3-fb50-f616-72ab-5346ba32deaf,1919-02-19,white,nonhispanic,F,San Jacinto  California  US,268 Champlin Glen,Lancaster,California,Los Angeles County,11123,80.3,Yes,No,106,0,0.0,High Risk
+03c7ae65-5a29-9a6d-b6ec-658c6f5d9e45,1919-11-07,white,nonhispanic,M,Whittier  California  US,655 Muller Avenue Apt 19,Lake of the Pines,California,Nevada County,43567,27.7,Yes,No,106,0,0.0,Moderate Risk
+291bd710-100e-e321-39d2-7ed679bcb373,1941-09-22,white,hispanic,F,Bogota  Bogota  CO,659 Gutkowski Estate,Lancaster,California,Los Angeles County,21960,30.4,Yes,No,84,0,0.0,High Risk
+ca5adbb8-2900-565a-c31b-e26a899eb5d6,1969-12-02,white,nonhispanic,M,Turlock  California  US,807 Sanford Orchard Apt 36,Los Angeles,California,Los Angeles County,103061,29.3,Yes,No,56,0,0.0,Moderate Risk
+f8e1d06c-32a9-c265-0730-fa4649680942,1996-09-11,white,nonhispanic,F,Los Angeles  California  US,777 Ritchie Green Apt 61,Montebello,California,Los Angeles County,19020,15.2,Yes,No,29,0,0.0,Low Risk
+229a1e6d-1714-f0cd-8253-a8729632291e,1963-06-28,white,nonhispanic,M,Riverside  California  US,318 Pacocha Drive,Los Angeles,California,Los Angeles County,38346,30.1,Yes,No,62,0,0.0,Moderate Risk
+6ba692ff-46fa-326f-be7e-efc2106c3d46,1975-04-10,white,nonhispanic,F,East Orosi  California  US,376 Kertzmann Rest,Laguna Beach,California,Orange County,90408,61.0,Yes,No,50,0,0.0,Moderate Risk
+16199a64-4f51-23e9-8103-d992fff334fc,1996-07-16,white,nonhispanic,M,Los Angeles  California  US,1017 Ziemann Bypass Suite 30,Los Angeles,California,Los Angeles County,42433,38.7,Yes,No,29,0,0.0,Moderate Risk
+7f2794d8-c916-9cb3-8635-456b7629d31f,1964-09-06,white,nonhispanic,F,Redlands  California  US,534 Legros Village,San Bernardino,California,San Bernardino County,2110,28.2,Yes,No,61,0,0.0,Moderate Risk
+fad88ba7-7fd5-539b-594e-ddd10d69d70a,1988-04-24,white,hispanic,F,Watsonville  California  US,330 McClure Village Suite 26,Victorville,California,San Bernardino County,63679,17.9,Yes,No,37,0,0.0,Low Risk
+a9585cf3-ae5f-01cd-406e-c3cd4d2ea0c2,1953-03-03,white,nonhispanic,F,Huntington Park  California  US,945 Cummerata Vale Apt 0,Riverside,California,Riverside County,176908,25.5,Yes,No,72,0,0.0,Moderate Risk
+3691f270-8bd5-a987-e54e-ad38f7208b65,1994-12-16,asian,nonhispanic,M,Ho Chi Minh City  Gia Định  VN,463 Friesen Station,San Francisco,California,San Francisco County,113942,16.8,Yes,No,31,0,0.0,Low Risk
+d6552760-be62-7e8d-edf0-954bc7b1cb07,1962-04-14,white,nonhispanic,F,Oakland  California  US,695 Bayer Wynd Unit 97,El Monte,California,Los Angeles County,28250,15.0,Yes,No,63,0,0.0,Low Risk
+5629979f-a728-f8bb-f32f-5a988c106311,1967-10-02,black,hispanic,M,Hawthorne  California  US,550 Price Lane Suite 4,Beaumont,California,Riverside County,13056,27.3,Yes,No,58,0,0.0,Moderate Risk
+bf6eb2f3-573c-7b5c-e4d1-0f6cd471d2d7,1942-02-22,white,hispanic,M,Burbank  California  US,909 Denesik Manor,Chowchilla,California,Madera County,14963,27.5,Yes,No,83,0,0.0,Moderate Risk
+18d40aea-632a-8bd9-8a13-698cf5894155,1944-06-09,white,nonhispanic,F,Lynwood  California  US,505 Ryan Trafficway Unit 33,El Paso de Robles (Paso Robles),California,San Luis Obispo County,127897,72.2,Yes,No,81,0,0.0,High Risk
+3f72026b-66a5-6dce-b2d2-72f9cad564b4,1980-12-03,white,hispanic,F,San Jose  San Jose  CR,598 Zemlak Boulevard Apt 24,Manteca,California,San Joaquin County,364,16.3,Yes,No,45,0,0.0,Low Risk
+44a768e0-cb42-a90e-4eb4-1c1c817bc0a3,1942-02-22,white,hispanic,M,Simi Valley  California  US,108 Nitzsche Light,Chowchilla,California,Madera County,14963,27.6,Yes,No,83,0,0.0,Moderate Risk
+ee9436b0-a383-569b-843b-849756bc0c8a,1967-10-02,black,hispanic,M,Santa Cruz  California  US,677 Brown Station Apt 82,Beaumont,California,Riverside County,13056,27.2,Yes,No,58,0,0.0,Moderate Risk
+036849b8-a068-6879-8112-ca967833a5dd,1926-12-13,hawaiian,hispanic,M,Stockton  California  US,959 Stroman Green,Folsom,California,Sacramento County,89445,30.3,Yes,No,99,0,0.0,High Risk
+8b2f60fb-85d9-610f-02b6-1c521b30c897,1983-08-23,black,nonhispanic,M,Hayward  California  US,195 Fahey Ferry,Agoura Hills,California,Los Angeles County,155847,79.2,Yes,No,42,0,0.0,Moderate Risk
+2b283224-3047-1486-e2fa-f7044e5ab67e,1962-02-11,white,nonhispanic,M,Santa Ana  California  US,416 Thompson Track Apt 50,San Diego,California,San Diego County,107301,27.9,Yes,No,63,0,0.0,Moderate Risk
+81479067-2a5a-a114-5d66-9a57cfc8a60d,1942-05-07,hawaiian,nonhispanic,M,Martinez  California  US,958 Schowalter Heights Apt 10,Chula Vista,California,San Diego County,92796,27.6,Yes,No,83,0,0.0,Moderate Risk
+44a768e0-cb42-a90e-4eb4-1c1c817bc0a3,1942-02-22,white,hispanic,M,Simi Valley  California  US,108 Nitzsche Light,Chowchilla,California,Madera County,14963,27.6,Yes,No,83,0,0.0,Moderate Risk
+f0d3325f-af66-3c17-fc73-320082b9b12d,1955-05-07,white,nonhispanic,F,San Jose  California  US,222 O'Hara Frontage road,Hayward,California,Alameda County,47252,82.8,Yes,No,70,0,0.0,High Risk
+e551dfb5-dd1b-0634-808f-40b0ab538c73,1963-04-27,asian,nonhispanic,F,Shanghai  Shanghai Municipality  CN,385 Bashirian Gardens Unit 93,El Monte,California,Los Angeles County,111224,17.8,Yes,No,62,0,0.0,Low Risk
+c502f43d-b21a-ea2b-19c3-369c4fcbb313,1941-08-10,asian,nonhispanic,M,Union City  California  US,460 Bergstrom Spur Apt 11,Pacifica,California,San Mateo County,43220,25.5,Yes,No,84,0,0.0,Moderate Risk
+2b283224-3047-1486-e2fa-f7044e5ab67e,1962-02-11,white,nonhispanic,M,Santa Ana  California  US,416 Thompson Track Apt 50,San Diego,California,San Diego County,107301,29.5,Yes,No,63,0,0.0,Moderate Risk
+6dee99b7-b3ee-6d4e-1bea-adac5ae6626d,1934-06-23,other,hispanic,F,Fountain Valley  California  US,350 Batz Spur Apt 70,Port Hueneme,California,Ventura County,104935,37.0,Yes,No,91,0,0.0,High Risk
+3b267b74-9efd-03ac-135b-402deff305ed,1953-02-23,white,hispanic,M,San Pablo  California  US,706 McClure Skyway Unit 14,Fresno,California,Fresno County,47077,27.8,Yes,No,72,0,0.0,Moderate Risk
+2a757b0d-530b-e782-9ff8-20b3db145f4d,1990-01-03,white,hispanic,M,Havana  Havana  CU,958 Funk Ville Unit 7,Los Angeles,California,Los Angeles County,150737,99.7,Yes,No,35,0,0.0,Moderate Risk
+92a7064b-2a85-9348-26cd-6bfda1ea27e4,1950-01-19,asian,hispanic,F,Kingston  Kingston  JM,877 Blanda View,San Francisco,California,San Francisco County,52101,27.7,Yes,No,75,0,0.0,Moderate Risk
+2df6d290-91eb-d801-daaa-4ea1c995e37e,2008-05-11,white,nonhispanic,M,Alum Rock  California  US,375 Farrell Station Apt 62,Dublin,California,Alameda County,36502,18.7,Yes,No,17,0,0.0,Low Risk
+b70e8196-505f-2eff-21fa-73afaddf5120,1970-04-11,asian,nonhispanic,F,Los Angeles  California  US,676 Marquardt Union,Santa Clara,California,Santa Clara County,83373,35.2,Yes,No,55,0,0.0,Moderate Risk
+f6ad4a5a-36cd-fc62-9188-b5e2eac717cb,1943-09-20,asian,hispanic,M,Puebla  Puebla  MX,1028 McDermott Approach,Garden Grove,California,Orange County,22422,27.5,Yes,No,82,0,0.0,Moderate Risk
+1bdd9473-b77f-610a-1dcb-03081a80a9ca,1956-07-24,white,nonhispanic,M,Upland  California  US,175 Daniel Vista Unit 48,Lincoln,California,Placer County,195711,88.1,Yes,No,69,0,0.0,High Risk
+a3a7e16c-0aab-14bf-1632-38bc2e3b0dc1,1942-08-28,white,hispanic,F,Bell  California  US,167 MacGyver Path,El Cajon,California,San Diego County,13342,27.5,Yes,No,83,0,0.0,Moderate Risk
+cd9819c3-4969-be74-23b1-e52f74db4c81,1998-11-25,white,nonhispanic,M,Costa Mesa  California  US,391 Stracke Path Suite 2,Porterville,California,Tulare County,74122,94.3,Yes,No,27,0,0.0,Moderate Risk
+14bae5da-5392-dc93-3e22-19fb678d5b34,1950-06-28,white,nonhispanic,M,Los Angeles  California  US,704 Macejkovic Lock Apt 45,Watsonville,California,Santa Cruz County,23720,28.3,Yes,No,75,0,0.0,Moderate Risk
+6c50424b-4fbd-6b16-80c0-6663cf18ce97,2008-05-01,other,nonhispanic,M,Oceanside  California  US,1075 Huel Viaduct,Oceanside,California,San Diego County,5649,25.9,Yes,No,17,0,0.0,Low Risk
+4241e7cb-ab7c-57e2-a443-b01f6b86cbdd,1957-04-16,white,hispanic,F,Santiago  Santiago Province  CL,806 Pollich Bridge,Jurupa Valley,California,Riverside County,147891,22.4,Yes,No,68,0,0.0,Moderate Risk
+d73011ee-6eba-1bf8-e989-d6fba3c8f6f5,1961-10-26,hawaiian,nonhispanic,F,South San Gabriel  California  US,276 Wyman Port,La Mesa,California,San Diego County,51002,30.1,Yes,No,64,0,0.0,Moderate Risk
+ca424f09-df70-f4a9-986f-8e11f4dd838b,1973-07-01,white,nonhispanic,M,Sacramento  California  US,382 Nader Passage,Santa Ana,California,Orange County,49151,22.1,Yes,No,52,0,0.0,Low Risk
+6f8d080b-15c4-68e6-e911-d946aad22720,1962-03-06,white,hispanic,F,El Cajon  California  US,247 Schmeler Gardens,San Diego,California,San Diego County,73823,81.3,Yes,No,63,0,0.0,Moderate Risk
+abc59f62-dc5a-5095-1141-80b4ee8be73b,1996-06-14,white,nonhispanic,F,Santa Cruz  California  US,492 Keebler Estate,Fairfield,California,Solano County,41915,3.9,Yes,No,29,0,0.0,Low Risk
+581fa1e2-d0d7-64d2-aa82-02ebf762fbdc,1977-12-25,white,nonhispanic,F,Santa Ana  California  US,897 Murphy Lane Unit 8,Los Angeles,California,Los Angeles County,31355,30.3,Yes,No,48,0,0.0,Moderate Risk
+30ce7818-c593-9ea2-1004-648c226e3b02,1935-08-25,white,nonhispanic,M,Campbell  California  US,395 Medhurst Burg,Lake of the Pines,California,Nevada County,43567,27.7,Yes,No,90,0,0.0,Moderate Risk
+c9106318-4749-a64f-9e10-83344df07487,1943-07-08,asian,nonhispanic,F,East Los Angeles  California  US,197 Hickle Mall Apt 49,Long Beach,California,Los Angeles County,44748,28.0,Yes,No,82,0,0.0,Moderate Risk
+a9585cf3-ae5f-01cd-406e-c3cd4d2ea0c2,1953-03-03,white,nonhispanic,F,Huntington Park  California  US,945 Cummerata Vale Apt 0,Riverside,California,Riverside County,176908,29.4,Yes,No,72,0,0.0,Moderate Risk
+dd7b82c0-817d-8285-9b5b-d997c6b13fe3,1941-09-22,white,hispanic,F,Port-au-Prince  Haiti  HT,872 Botsford Track,Lancaster,California,Los Angeles County,21960,29.2,Yes,No,84,0,0.0,Moderate Risk
+a59cec27-c3dc-2b88-ac1a-70a162a6919e,1962-05-27,white,nonhispanic,M,Temecula  California  US,446 Windler Meadow Suite 75,Milpitas,California,Santa Clara County,789989,16.1,Yes,No,63,0,0.0,Low Risk
+2a76c0e3-1e73-2109-3d5e-8a8871fe35d7,1957-01-25,white,hispanic,M,Santo Domingo  National District  DO,1070 Stroman Annex,Santa Maria,California,Santa Barbara County,35491,28.5,Yes,No,68,0,0.0,Moderate Risk
+b3d82620-8a3c-719d-1be8-6623642612ba,1963-05-27,white,nonhispanic,F,Oakland  California  US,522 Prohaska Mall,Orcutt,California,Santa Barbara County,33492,28.9,Yes,No,62,0,0.0,Moderate Risk
+b2969c4c-3057-3ba7-307f-145e4e8cd94c,1919-11-07,white,nonhispanic,M,Elk Grove  California  US,532 Sipes Lock Suite 21,Lake of the Pines,California,Nevada County,43567,31.0,Yes,No,106,0,0.0,High Risk
+7f2794d8-c916-9cb3-8635-456b7629d31f,1964-09-06,white,nonhispanic,F,Redlands  California  US,534 Legros Village,San Bernardino,California,San Bernardino County,2110,28.2,Yes,No,61,0,0.0,Moderate Risk
+0eacdb81-1a02-1704-aec9-b49840109d38,1952-08-22,white,nonhispanic,F,Stockton  California  US,886 Rohan Spur Unit 24,Martinez,California,Contra Costa County,40799,51.3,Yes,No,73,0,0.0,High Risk
+056ded2d-827e-1cf1-199c-5561d7884437,1919-02-19,white,nonhispanic,F,Corona  California  US,576 Wolff Divide Suite 39,Lancaster,California,Los Angeles County,11123,28.5,Yes,No,106,0,0.0,Moderate Risk
+30ce7818-c593-9ea2-1004-648c226e3b02,1935-08-25,white,nonhispanic,M,Campbell  California  US,395 Medhurst Burg,Lake of the Pines,California,Nevada County,43567,99.0,Yes,No,90,0,0.0,High Risk
+7f2794d8-c916-9cb3-8635-456b7629d31f,1964-09-06,white,nonhispanic,F,Redlands  California  US,534 Legros Village,San Bernardino,California,San Bernardino County,2110,28.2,Yes,No,61,0,0.0,Moderate Risk
+4241e7cb-ab7c-57e2-a443-b01f6b86cbdd,1957-04-16,white,hispanic,F,Santiago  Santiago Province  CL,806 Pollich Bridge,Jurupa Valley,California,Riverside County,147891,50.2,Yes,No,68,0,0.0,High Risk
+f9de2f2f-2f18-08f4-fc45-a97645b5a1ff,1947-06-24,white,hispanic,M,Salisbury  Saint Joseph Parish  DM,874 Fadel Vista Suite 95,Temelec,California,Sonoma County,67339,28.6,Yes,No,78,0,0.0,Moderate Risk
+8e8b4dab-8c2d-1c03-f2fc-9630114d4934,1979-10-15,white,hispanic,M,San Diego  California  US,186 Schultz Light Suite 55,East Los Angeles,California,Los Angeles County,29766,17.7,Yes,No,46,0,0.0,Low Risk
+b70e8196-505f-2eff-21fa-73afaddf5120,1970-04-11,asian,nonhispanic,F,Los Angeles  California  US,676 Marquardt Union,Santa Clara,California,Santa Clara County,83373,29.6,Yes,No,55,0,0.0,Moderate Risk
+a3a7e16c-0aab-14bf-1632-38bc2e3b0dc1,1942-08-28,white,hispanic,F,Bell  California  US,167 MacGyver Path,El Cajon,California,San Diego County,13342,27.5,Yes,No,83,0,0.0,Moderate Risk
+ff7afb45-4baf-dd51-c412-d32be71f1be6,1961-10-26,hawaiian,nonhispanic,F,Modesto  California  US,298 Cruickshank Knoll Apt 84,La Mesa,California,San Diego County,51002,43.8,Yes,No,64,0,0.0,Moderate Risk
+ca5adbb8-2900-565a-c31b-e26a899eb5d6,1969-12-02,white,nonhispanic,M,Turlock  California  US,807 Sanford Orchard Apt 36,Los Angeles,California,Los Angeles County,103061,27.6,Yes,No,56,0,0.0,Moderate Risk
+318ab8c8-e50e-b598-f598-027a7ea2d3a1,1964-04-03,white,hispanic,M,Guatemala City  Guatemala  GT,144 Pfeffer Skyway,West Sacramento,California,Yolo County,14573,30.2,Yes,No,61,0,0.0,Moderate Risk
+054e3811-276c-6db7-4663-67e2f89486e7,1953-05-24,white,nonhispanic,M,Oceanside  California  US,639 Franecki Trail,Beaumont,California,Riverside County,119987,30.8,Yes,No,72,0,0.0,High Risk
+f521abab-da69-04c6-9d9d-24d1667c3980,1947-10-12,white,nonhispanic,M,Los Alamitos  California  US,1075 Krajcik Green Unit 17,Santa Ana,California,Orange County,56690,29.6,Yes,No,78,0,0.0,Moderate Risk
+051814be-3245-09c1-fe45-8feb887c23cb,1967-11-10,black,nonhispanic,M,Westminster  California  US,143 Jaskolski View,Yreka,California,Siskiyou County,2418,93.9,Yes,No,58,0,0.0,Moderate Risk
+6f8d080b-15c4-68e6-e911-d946aad22720,1962-03-06,white,hispanic,F,El Cajon  California  US,247 Schmeler Gardens,San Diego,California,San Diego County,73823,28.6,Yes,No,63,0,0.0,Moderate Risk
+9f23872b-9e3a-b3d2-1cab-0a3efe3db08b,1939-11-26,white,hispanic,M,Caracas  Capital District  VE,958 Feil Mission Unit 21,Los Angeles,California,Los Angeles County,24937,16.8,Yes,No,86,0,0.0,Moderate Risk
+03c7ae65-5a29-9a6d-b6ec-658c6f5d9e45,1919-11-07,white,nonhispanic,M,Whittier  California  US,655 Muller Avenue Apt 19,Lake of the Pines,California,Nevada County,43567,27.7,Yes,No,106,0,0.0,Moderate Risk
+291bd710-100e-e321-39d2-7ed679bcb373,1941-09-22,white,hispanic,F,Bogota  Bogota  CO,659 Gutkowski Estate,Lancaster,California,Los Angeles County,21960,30.5,Yes,No,84,0,0.0,High Risk
+4113255f-4e35-506a-ddef-4429caa17ffc,1961-06-21,white,nonhispanic,F,Boyes Hot Springs  California  US,946 Carroll Arcade Suite 20,Los Angeles,California,Los Angeles County,45680,26.9,Yes,No,64,0,0.0,Moderate Risk
+8f48bcc9-693d-5a6e-2ed2-1bc7f7251579,1959-01-23,white,nonhispanic,F,Santa Rosa  California  US,391 Friesen Burg,San Francisco,California,San Francisco County,44065,31.3,Yes,No,66,0,0.0,High Risk
+f516f20e-7fc0-3ab2-f56d-f7cbf541f2b8,1982-11-27,white,nonhispanic,M,Lower Lake  California  US,603 Lehner Lodge Unit 9,Los Angeles,California,Los Angeles County,60676,73.3,Yes,No,43,0,0.0,Moderate Risk
+ca5adbb8-2900-565a-c31b-e26a899eb5d6,1969-12-02,white,nonhispanic,M,Turlock  California  US,807 Sanford Orchard Apt 36,Los Angeles,California,Los Angeles County,103061,29.3,Yes,No,56,0,0.0,Moderate Risk
+ac24b5ec-8a7c-3413-9f5d-f52b9d7fc260,2000-05-03,white,nonhispanic,F,Los Angeles  California  US,226 Lind Run Unit 69,Covina,California,Los Angeles County,21342,79.1,Yes,No,25,0,0.0,Moderate Risk
+f18adfcb-6269-9780-2bab-c00d93369ce2,1961-08-27,white,nonhispanic,M,Pomona  California  US,300 Kutch Brook,Vista,California,San Diego County,9737,30.0,Yes,No,64,0,0.0,Moderate Risk
+12b66f6f-89ce-866e-208b-473d814a7f6c,1970-11-20,white,nonhispanic,F,Los Angeles  California  US,234 Kuhic Key Unit 5,Redwood City,California,San Mateo County,334421,28.4,Yes,No,55,0,0.0,Moderate Risk
+318ab8c8-e50e-b598-f598-027a7ea2d3a1,1964-04-03,white,hispanic,M,Guatemala City  Guatemala  GT,144 Pfeffer Skyway,West Sacramento,California,Yolo County,14573,30.2,Yes,No,61,0,0.0,Moderate Risk
+6775a61c-479c-6554-e3da-e38a503fa646,1955-11-28,white,nonhispanic,F,San Diego  California  US,759 Reichel Key Unit 52,Camarillo,California,Ventura County,28274,27.8,Yes,No,70,0,0.0,Moderate Risk
+b2969c4c-3057-3ba7-307f-145e4e8cd94c,1919-11-07,white,nonhispanic,M,Elk Grove  California  US,532 Sipes Lock Suite 21,Lake of the Pines,California,Nevada County,43567,31.0,Yes,No,106,0,0.0,High Risk
+3e5bfc73-33e6-5548-ed7f-9ed42e715de8,1951-02-11,white,nonhispanic,F,Los Angeles  California  US,594 Larkin Mill Suite 17,Visalia,California,Tulare County,108310,28.0,Yes,No,74,0,0.0,Moderate Risk
+eb4b67ca-a02e-8e5f-b9b4-a8a88545d6f9,1959-04-03,hawaiian,nonhispanic,M,Palo Alto  California  US,1056 Koch Haven,Fremont,California,Alameda County,160355,18.1,Yes,No,66,0,0.0,Moderate Risk
+6565486a-566f-2324-edfc-60f86785bd31,1961-08-04,white,nonhispanic,F,Bakersfield  California  US,617 Gutkowski Hollow,San Diego,California,San Diego County,134977,27.6,Yes,No,64,0,0.0,Moderate Risk
+f18adfcb-6269-9780-2bab-c00d93369ce2,1961-08-27,white,nonhispanic,M,Pomona  California  US,300 Kutch Brook,Vista,California,San Diego County,9737,30.0,Yes,No,64,0,0.0,Moderate Risk
+f69b3a22-336e-e9b4-7216-3503fc0e3efc,2012-01-12,white,nonhispanic,M,Long Beach  California  US,898 Bernier Common,Foster City,California,San Mateo County,177662,11.5,Yes,No,13,0,0.0,Low Risk
+a8ab8530-d764-7bc1-c997-e2de5a04eb40,1943-11-05,white,nonhispanic,F,Watsonville  California  US,745 Barrows Rapid Suite 22,Tustin,California,Orange County,26709,25.8,Yes,No,82,0,0.0,Moderate Risk
+e1651b76-ec93-f8d8-e6aa-774af18e06ff,1942-05-07,hawaiian,nonhispanic,M,Pomona  California  US,957 Vandervort Mill Apt 53,Chula Vista,California,San Diego County,92796,15.4,Yes,No,83,0,0.0,Moderate Risk
+f18adfcb-6269-9780-2bab-c00d93369ce2,1961-08-27,white,nonhispanic,M,Pomona  California  US,300 Kutch Brook,Vista,California,San Diego County,9737,30.0,Yes,No,64,0,0.0,Moderate Risk
+03c7ae65-5a29-9a6d-b6ec-658c6f5d9e45,1919-11-07,white,nonhispanic,M,Whittier  California  US,655 Muller Avenue Apt 19,Lake of the Pines,California,Nevada County,43567,21.8,Yes,No,106,0,0.0,Moderate Risk
+f53fcb20-8df7-cf7f-56bc-8b470fda1d09,1960-08-24,asian,hispanic,F,Havana  Havana  CU,359 Harvey Esplanade Unit 70,Sacramento,California,Sacramento County,5779,27.3,Yes,No,65,0,0.0,Moderate Risk
+c3387cb1-382a-d643-25ec-3073636fb586,1977-03-11,black,nonhispanic,M,Prunedale  California  US,803 Gislason Drive Apt 9,Santa Ana,California,Orange County,86917,68.9,Yes,No,48,0,0.0,Moderate Risk
+0f77e3b6-f35c-375d-1b0e-1b21eea9f7a8,1992-03-12,white,nonhispanic,F,Huntington Beach  California  US,1019 Christiansen Fork Apt 22,Fontana,California,San Bernardino County,138269,15.9,Yes,No,33,0,0.0,Low Risk
+229a1e6d-1714-f0cd-8253-a8729632291e,1963-06-28,white,nonhispanic,M,Riverside  California  US,318 Pacocha Drive,Los Angeles,California,Los Angeles County,38346,30.1,Yes,No,62,0,0.0,Moderate Risk
+318ab8c8-e50e-b598-f598-027a7ea2d3a1,1964-04-03,white,hispanic,M,Guatemala City  Guatemala  GT,144 Pfeffer Skyway,West Sacramento,California,Yolo County,14573,28.1,Yes,No,61,0,0.0,Moderate Risk
+4113255f-4e35-506a-ddef-4429caa17ffc,1961-06-21,white,nonhispanic,F,Boyes Hot Springs  California  US,946 Carroll Arcade Suite 20,Los Angeles,California,Los Angeles County,45680,26.9,Yes,No,64,0,0.0,Moderate Risk
+19a45930-d27a-75e6-d956-fb3e1cb3cd54,1943-11-02,white,nonhispanic,F,South San Francisco  California  US,903 Littel Promenade Suite 82,Oceanside,California,San Diego County,39885,28.0,Yes,No,82,0,0.0,Moderate Risk
+318ab8c8-e50e-b598-f598-027a7ea2d3a1,1964-04-03,white,hispanic,M,Guatemala City  Guatemala  GT,144 Pfeffer Skyway,West Sacramento,California,Yolo County,14573,30.2,Yes,No,61,0,0.0,Moderate Risk
+509acf6b-ef54-fc75-32c0-3b542ba71495,1969-02-21,asian,nonhispanic,M,San Jose  California  US,765 Braun Lane,Fairfield,California,Solano County,42555,31.9,Yes,No,56,0,0.0,Moderate Risk
+82d9715f-1cfb-2fe1-c2ec-4e642cd6ef15,1924-04-28,white,nonhispanic,M,Stockton  California  US,568 Wintheiser Parade,Fresno,California,Fresno County,49643,56.9,Yes,No,101,0,0.0,High Risk
+03c7ae65-5a29-9a6d-b6ec-658c6f5d9e45,1919-11-07,white,nonhispanic,M,Whittier  California  US,655 Muller Avenue Apt 19,Lake of the Pines,California,Nevada County,43567,27.7,Yes,No,106,0,0.0,Moderate Risk
+318ab8c8-e50e-b598-f598-027a7ea2d3a1,1964-04-03,white,hispanic,M,Guatemala City  Guatemala  GT,144 Pfeffer Skyway,West Sacramento,California,Yolo County,14573,30.2,Yes,No,61,0,0.0,Moderate Risk
+67abade3-d58e-9cdf-acd1-822b390137c4,1950-12-07,white,hispanic,M,Rialto  California  US,547 Cummerata Gate Apt 86,Oakdale,California,Stanislaus County,7325,29.6,Yes,No,75,0,0.0,Moderate Risk
+a9585cf3-ae5f-01cd-406e-c3cd4d2ea0c2,1953-03-03,white,nonhispanic,F,Huntington Park  California  US,945 Cummerata Vale Apt 0,Riverside,California,Riverside County,176908,25.5,Yes,No,72,0,0.0,Moderate Risk
+8d46f76d-f9b6-b78b-5c37-217ba316d073,1990-09-21,asian,hispanic,M,Nipomo  California  US,103 Hackett Common,Monrovia,California,Los Angeles County,89897,90.2,Yes,No,35,0,0.0,Moderate Risk
+b2969c4c-3057-3ba7-307f-145e4e8cd94c,1919-11-07,white,nonhispanic,M,Elk Grove  California  US,532 Sipes Lock Suite 21,Lake of the Pines,California,Nevada County,43567,31.0,Yes,No,106,0,0.0,High Risk
+2d544964-de01-4845-78b0-c447ceac2ea4,1958-09-06,white,nonhispanic,M,Camarillo  California  US,780 Keebler Quay Apt 30,Hawthorne,California,Los Angeles County,3900,100.0,Yes,No,67,0,0.0,High Risk
+ef8df187-dc9d-6835-3b16-393b9344eb04,1973-05-17,white,hispanic,F,Rancho Cordova  California  US,1094 Green Rue,Colton,California,San Bernardino County,21162,27.2,Yes,No,52,0,0.0,Moderate Risk
+b50bb26e-1f6d-2732-d8ee-822963a38551,1934-06-23,other,hispanic,F,San Diego  California  US,245 Ritchie Burg,Port Hueneme,California,Ventura County,104935,30.1,Yes,No,91,0,0.0,High Risk
+6f8d080b-15c4-68e6-e911-d946aad22720,1962-03-06,white,hispanic,F,El Cajon  California  US,247 Schmeler Gardens,San Diego,California,San Diego County,73823,28.6,Yes,No,63,0,0.0,Moderate Risk
+59919746-ac2b-39c7-c49a-77834553de92,1976-06-14,white,nonhispanic,M,Irvine  California  US,485 Romaguera Light,Fontana,California,San Bernardino County,67810,27.0,Yes,No,49,0,0.0,Low Risk
+699c2f48-dd7a-197d-b40a-3cb88c6826ff,1954-02-01,white,nonhispanic,M,Murrieta  California  US,1016 Hintz Well Apt 77,Chico,California,Butte County,32419,27.3,Yes,No,71,0,0.0,Moderate Risk
+f58d1fb5-5591-71b0-e3fe-3735feadb88a,2022-01-06,white,hispanic,M,San Jose  San Jose  CR,995 Kutch Knoll,Highland,California,San Bernardino County,20975,24.4,Yes,No,3,0,0.0,Low Risk
+291bd710-100e-e321-39d2-7ed679bcb373,1941-09-22,white,hispanic,F,Bogota  Bogota  CO,659 Gutkowski Estate,Lancaster,California,Los Angeles County,21960,17.2,Yes,No,84,0,0.0,Moderate Risk
+6f8d080b-15c4-68e6-e911-d946aad22720,1962-03-06,white,hispanic,F,El Cajon  California  US,247 Schmeler Gardens,San Diego,California,San Diego County,73823,17.7,Yes,No,63,0,0.0,Low Risk
+d806cd52-b1e5-aa45-44b2-f0e05341bc8d,1957-05-26,white,hispanic,F,Kingston  Kingston  JM,213 Tremblay Byway,Oxnard,California,Ventura County,139706,13.2,Yes,No,68,0,0.0,Moderate Risk
+ca286431-e75a-ccdb-f1bf-b3d1bf3e6ef1,1993-02-24,white,hispanic,F,Victorville  California  US,1002 Schimmel Underpass Suite 83,Lancaster,California,Los Angeles County,16805,17.7,Yes,No,32,0,0.0,Low Risk
+0d72c0f4-1eb2-0a9a-e6be-d01460e992d0,1958-08-07,asian,hispanic,M,Santo Domingo  National District  DO,914 Brekke Run,Palmdale,California,Los Angeles County,72784,8.6,Yes,No,67,0,0.0,Moderate Risk
+354ec06c-de9d-bd30-d66a-003dddc1ccb8,1949-08-25,white,nonhispanic,M,Bellflower  California  US,372 Dooley Station Suite 58,Desert Hot Springs,California,Riverside County,23467,30.3,Yes,No,76,0,0.0,High Risk
+4dc48325-5308-7977-e1ea-58a9feb4178c,1919-11-07,white,nonhispanic,M,Los Angeles  California  US,942 Gorczany Tunnel Suite 65,Lake of the Pines,California,Nevada County,43567,29.8,Yes,No,106,0,0.0,Moderate Risk
+0eacdb81-1a02-1704-aec9-b49840109d38,1952-08-22,white,nonhispanic,F,Stockton  California  US,886 Rohan Spur Unit 24,Martinez,California,Contra Costa County,40799,30.0,Yes,No,73,0,0.0,High Risk
+4917f5f5-640b-dc99-f792-f12afc7d4eca,1941-10-22,white,nonhispanic,M,Los Angeles  California  US,425 Kuhlman Extension Unit 87,North Tustin,California,Orange County,792074,15.7,Yes,No,84,0,0.0,Moderate Risk
+ddd9dc23-e28f-9a8f-af7b-e8e809bd9e77,1941-10-22,white,nonhispanic,M,El Segundo  California  US,138 Aufderhar Alley Suite 80,North Tustin,California,Orange County,792074,50.7,Yes,No,84,0,0.0,High Risk
+239ae86a-96db-6211-9042-d3f2850aabb8,1970-06-18,white,hispanic,M,Dublin  California  US,541 Stracke Plaza,San Jose,California,Santa Clara County,3928,26.1,Yes,No,55,0,0.0,Moderate Risk
+3e8e1390-f955-a954-4f58-999c63000e88,1941-09-22,white,hispanic,F,San Salvador  El Salvador  SV,776 McGlynn Forge Suite 20,Lancaster,California,Los Angeles County,21960,28.7,Yes,No,84,0,0.0,Moderate Risk
+61fa4c1d-1cfe-d3b9-688f-79671ae1d000,2005-04-06,white,hispanic,M,Camarillo  California  US,188 Sanford Plaza Suite 43,Lake Elsinore,California,Riverside County,61752,66.4,Yes,No,20,0,0.0,Moderate Risk
+229a1e6d-1714-f0cd-8253-a8729632291e,1963-06-28,white,nonhispanic,M,Riverside  California  US,318 Pacocha Drive,Los Angeles,California,Los Angeles County,38346,30.1,Yes,No,62,0,0.0,Moderate Risk
+4dc48325-5308-7977-e1ea-58a9feb4178c,1919-11-07,white,nonhispanic,M,Los Angeles  California  US,942 Gorczany Tunnel Suite 65,Lake of the Pines,California,Nevada County,43567,29.5,Yes,No,106,0,0.0,Moderate Risk
+2b440c6c-29db-af6a-02a2-30a13411bf78,1983-05-16,white,nonhispanic,M,Taft  California  US,611 Grant Trafficway,Torrance,California,Los Angeles County,156762,28.8,Yes,No,42,0,0.0,Low Risk
+ca6a23ee-a918-66b5-175d-baec5aba23f1,1973-08-22,white,nonhispanic,F,Modesto  California  US,731 Huels Center Suite 12,San Jose,California,Santa Clara County,33222,27.7,Yes,No,52,0,0.0,Moderate Risk
+e0b758ad-b2b3-8de6-ea86-e7cfb37eeaa4,1947-10-12,white,hispanic,F,San Francisco  California  US,355 Kulas Passage Apt 81,Hawthorne,California,Los Angeles County,45097,27.5,Yes,No,78,0,0.0,Moderate Risk
+a3a7e16c-0aab-14bf-1632-38bc2e3b0dc1,1942-08-28,white,hispanic,F,Bell  California  US,167 MacGyver Path,El Cajon,California,San Diego County,13342,27.5,Yes,No,83,0,0.0,Moderate Risk
+d141033b-f16a-37ea-165d-66bc0869ae74,1989-04-27,black,hispanic,M,Carolina  Puerto Rico  PR,410 Thompson Parade,Pico Rivera,California,Los Angeles County,130841,23.7,Yes,No,36,0,0.0,Low Risk
+30dfc392-b177-4307-ca8b-93a03efe1d96,1981-07-28,white,nonhispanic,M,Calexico  California  US,386 Cremin Fork,Wilton,California,Sacramento County,68872,92.8,Yes,No,44,0,0.0,Moderate Risk
+f18adfcb-6269-9780-2bab-c00d93369ce2,1961-08-27,white,nonhispanic,M,Pomona  California  US,300 Kutch Brook,Vista,California,San Diego County,9737,30.0,Yes,No,64,0,0.0,Moderate Risk
+90d4e7f2-aa26-db2f-d5fd-dcd33721782c,1991-02-06,white,hispanic,M,Guatemala City  Guatemala  GT,819 Padberg Row Apt 71,Upland,California,San Bernardino County,70851,14.7,Yes,No,34,0,0.0,Low Risk
+2b283224-3047-1486-e2fa-f7044e5ab67e,1962-02-11,white,nonhispanic,M,Santa Ana  California  US,416 Thompson Track Apt 50,San Diego,California,San Diego County,107301,27.9,Yes,No,63,0,0.0,Moderate Risk
+f18adfcb-6269-9780-2bab-c00d93369ce2,1961-08-27,white,nonhispanic,M,Pomona  California  US,300 Kutch Brook,Vista,California,San Diego County,9737,29.6,Yes,No,64,0,0.0,Moderate Risk
+883c2b4d-c229-8805-bd31-369ecff9fd92,2001-08-15,other,nonhispanic,F,La Mirada  California  US,180 Hirthe Course Apt 68,Vacaville,California,Solano County,62973,16.3,Yes,No,24,0,0.0,Low Risk
+30e8d8cc-b346-178f-fed7-fbd513f65842,1950-01-19,asian,hispanic,F,Panama City  Panama  PA,1049 Hilpert Trafficway Apt 21,San Francisco,California,San Francisco County,52101,30.5,Yes,No,75,0,0.0,High Risk
+9fed0d81-c550-8b43-2713-87d9c01781ed,1993-01-22,white,hispanic,F,Soquel  California  US,214 Jenkins Drive Apt 80,Moorpark,California,Ventura County,98978,48.6,Yes,No,32,0,0.0,Moderate Risk
+5629979f-a728-f8bb-f32f-5a988c106311,1967-10-02,black,hispanic,M,Hawthorne  California  US,550 Price Lane Suite 4,Beaumont,California,Riverside County,13056,27.3,Yes,No,58,0,0.0,Moderate Risk
+3d5c86f6-ca53-62dd-5b26-29431e683e7d,1962-05-27,white,nonhispanic,M,Oakland  California  US,599 Kerluke Manor,Milpitas,California,Santa Clara County,789989,53.3,Yes,No,63,0,0.0,Moderate Risk
+36911525-cfcd-2da7-430f-d06c5c64a092,2001-06-08,asian,nonhispanic,F,Fremont  California  US,624 Simonis Run Unit 15,Pittsburg,California,Contra Costa County,7965,18.1,Yes,No,24,0,0.0,Low Risk
+2a76c0e3-1e73-2109-3d5e-8a8871fe35d7,1957-01-25,white,hispanic,M,Santo Domingo  National District  DO,1070 Stroman Annex,Santa Maria,California,Santa Barbara County,35491,28.5,Yes,No,68,0,0.0,Moderate Risk
+ca5adbb8-2900-565a-c31b-e26a899eb5d6,1969-12-02,white,nonhispanic,M,Turlock  California  US,807 Sanford Orchard Apt 36,Los Angeles,California,Los Angeles County,103061,29.5,Yes,No,56,0,0.0,Moderate Risk
+ff7afb45-4baf-dd51-c412-d32be71f1be6,1961-10-26,hawaiian,nonhispanic,F,Modesto  California  US,298 Cruickshank Knoll Apt 84,La Mesa,California,San Diego County,51002,19.2,Yes,No,64,0,0.0,Low Risk
+ed95baea-6b99-fbd8-5dde-6b6402221cfb,1963-10-27,white,nonhispanic,F,Livermore  California  US,132 Bergstrom Vista Suite 63,Yuba City,California,Sutter County,26040,30.4,Yes,No,62,0,0.0,Moderate Risk
+b2e74a32-0281-f767-3dd1-d4ae7b492864,1994-03-29,asian,hispanic,F,Juarez  Chihuahua  MX,256 Pfeffer Orchard,Lake Forest,California,Orange County,138625,24.6,Yes,No,31,0,0.0,Low Risk
+4113255f-4e35-506a-ddef-4429caa17ffc,1961-06-21,white,nonhispanic,F,Boyes Hot Springs  California  US,946 Carroll Arcade Suite 20,Los Angeles,California,Los Angeles County,45680,30.4,Yes,No,64,0,0.0,Moderate Risk
+48587bfa-b72e-3664-51f8-497adc4761ff,1960-06-20,white,nonhispanic,F,Elk Grove  California  US,478 Hoeger Park Suite 45,Vista,California,San Diego County,2679,17.3,Yes,No,65,0,0.0,Moderate Risk
+318ab8c8-e50e-b598-f598-027a7ea2d3a1,1964-04-03,white,hispanic,M,Guatemala City  Guatemala  GT,144 Pfeffer Skyway,West Sacramento,California,Yolo County,14573,30.2,Yes,No,61,0,0.0,Moderate Risk
+a9585cf3-ae5f-01cd-406e-c3cd4d2ea0c2,1953-03-03,white,nonhispanic,F,Huntington Park  California  US,945 Cummerata Vale Apt 0,Riverside,California,Riverside County,176908,29.2,Yes,No,72,0,0.0,Moderate Risk
+48587bfa-b72e-3664-51f8-497adc4761ff,1960-06-20,white,nonhispanic,F,Elk Grove  California  US,478 Hoeger Park Suite 45,Vista,California,San Diego County,2679,28.9,Yes,No,65,0,0.0,Moderate Risk
+e0b758ad-b2b3-8de6-ea86-e7cfb37eeaa4,1947-10-12,white,hispanic,F,San Francisco  California  US,355 Kulas Passage Apt 81,Hawthorne,California,Los Angeles County,45097,27.5,Yes,No,78,0,0.0,Moderate Risk
+291bd710-100e-e321-39d2-7ed679bcb373,1941-09-22,white,hispanic,F,Bogota  Bogota  CO,659 Gutkowski Estate,Lancaster,California,Los Angeles County,21960,29.8,Yes,No,84,0,0.0,Moderate Risk
+1d98b4d6-7e33-ba0c-2e7a-87e9b6ab3ff9,1944-06-09,white,nonhispanic,F,Stockton  California  US,123 Fisher Haven Unit 11,El Paso de Robles (Paso Robles),California,San Luis Obispo County,127897,25.7,Yes,No,81,0,0.0,Moderate Risk
+ead2f496-2df0-2bc0-c446-9110f0453c02,1954-09-18,black,hispanic,M,San Diego  California  US,980 Hermiston Crossing Apt 29,Temelec,California,Sonoma County,51932,28.9,Yes,No,71,0,0.0,Moderate Risk
+30e8d8cc-b346-178f-fed7-fbd513f65842,1950-01-19,asian,hispanic,F,Panama City  Panama  PA,1049 Hilpert Trafficway Apt 21,San Francisco,California,San Francisco County,52101,28.0,Yes,No,75,0,0.0,Moderate Risk
+f18adfcb-6269-9780-2bab-c00d93369ce2,1961-08-27,white,nonhispanic,M,Pomona  California  US,300 Kutch Brook,Vista,California,San Diego County,9737,29.0,Yes,No,64,0,0.0,Moderate Risk
+a12b8370-99f0-9048-cea8-73d92de90818,1919-11-07,white,nonhispanic,M,Santa Clara  California  US,270 Klein Manor Apt 14,Lake of the Pines,California,Nevada County,43567,27.2,Yes,No,106,0,0.0,Moderate Risk
+177f7879-abb1-abc8-1b92-5b3c3cb24da8,1971-09-05,white,nonhispanic,M,San Jose  California  US,479 Gorczany Neck,Woodland,California,Yolo County,49116,30.5,Yes,No,54,0,0.0,Moderate Risk
+c9106318-4749-a64f-9e10-83344df07487,1943-07-08,asian,nonhispanic,F,East Los Angeles  California  US,197 Hickle Mall Apt 49,Long Beach,California,Los Angeles County,44748,28.0,Yes,No,82,0,0.0,Moderate Risk
+b2969c4c-3057-3ba7-307f-145e4e8cd94c,1919-11-07,white,nonhispanic,M,Elk Grove  California  US,532 Sipes Lock Suite 21,Lake of the Pines,California,Nevada County,43567,31.0,Yes,No,106,0,0.0,High Risk
+f6aae6ae-c382-593c-1330-6d6598282031,1998-06-24,black,nonhispanic,M,Pleasanton  California  US,370 Auer Knoll,Lancaster,California,Los Angeles County,966793,16.1,Yes,No,27,0,0.0,Low Risk
+0d03cc3c-5fc3-79bf-1e7c-982cff303066,1965-04-08,asian,hispanic,M,Simi Valley  California  US,927 Johnson Rest Suite 12,West Puente Valley,California,Los Angeles County,13758,17.6,Yes,No,60,0,0.0,Low Risk
+3fd90f94-bdbe-2bfa-1187-86602908bea4,1952-12-04,white,nonhispanic,F,Brentwood  California  US,596 Hackett Throughway,Alameda,California,Alameda County,159776,30.6,Yes,No,73,0,0.0,High Risk
+4aa24740-d774-26a0-f620-56177f4cce14,1943-09-20,asian,hispanic,M,La Paz  Baja California  MX,632 Spinka Trafficway,Garden Grove,California,Orange County,22422,16.7,Yes,No,82,0,0.0,Moderate Risk
+318ab8c8-e50e-b598-f598-027a7ea2d3a1,1964-04-03,white,hispanic,M,Guatemala City  Guatemala  GT,144 Pfeffer Skyway,West Sacramento,California,Yolo County,14573,30.1,Yes,No,61,0,0.0,Moderate Risk
+44a768e0-cb42-a90e-4eb4-1c1c817bc0a3,1942-02-22,white,hispanic,M,Simi Valley  California  US,108 Nitzsche Light,Chowchilla,California,Madera County,14963,27.6,Yes,No,83,0,0.0,Moderate Risk
+a559e74f-3a37-260f-f008-5a44b18bad54,1968-11-10,black,nonhispanic,M,Pine Hills  California  US,1091 Blick Rue Apt 66,Carmichael,California,Sacramento County,85164,16.9,Yes,No,57,0,0.0,Low Risk
+fca1cfe1-56cc-9d96-db6f-bb6a8814235d,1953-01-07,asian,hispanic,M,San Francisco  California  US,382 Kuhic Estate Apt 53,San Buenaventura (Ventura),California,Ventura County,515489,15.3,Yes,No,72,0,0.0,Moderate Risk
+a8ab8530-d764-7bc1-c997-e2de5a04eb40,1943-11-05,white,nonhispanic,F,Watsonville  California  US,745 Barrows Rapid Suite 22,Tustin,California,Orange County,26709,29.8,Yes,No,82,0,0.0,Moderate Risk
+ead2f496-2df0-2bc0-c446-9110f0453c02,1954-09-18,black,hispanic,M,San Diego  California  US,980 Hermiston Crossing Apt 29,Temelec,California,Sonoma County,51932,23.6,Yes,No,71,0,0.0,Moderate Risk
+d9fb22dd-45ab-41e3-7c6c-393d74805e67,1953-05-09,black,nonhispanic,F,Rancho Cucamonga  California  US,291 Wintheiser Dam Apt 49,Corona,California,Riverside County,35382,23.5,Yes,No,72,0,0.0,Moderate Risk
+ead2f496-2df0-2bc0-c446-9110f0453c02,1954-09-18,black,hispanic,M,San Diego  California  US,980 Hermiston Crossing Apt 29,Temelec,California,Sonoma County,51932,50.4,Yes,No,71,0,0.0,High Risk
+e0b758ad-b2b3-8de6-ea86-e7cfb37eeaa4,1947-10-12,white,hispanic,F,San Francisco  California  US,355 Kulas Passage Apt 81,Hawthorne,California,Los Angeles County,45097,27.5,Yes,No,78,0,0.0,Moderate Risk
+57d67608-3fed-2fd2-60db-97271395b21a,2011-10-31,white,nonhispanic,M,Los Angeles  California  US,1052 Goyette Union,Santa Maria,California,Santa Barbara County,53003,15.0,Yes,No,14,0,0.0,Low Risk
+44a768e0-cb42-a90e-4eb4-1c1c817bc0a3,1942-02-22,white,hispanic,M,Simi Valley  California  US,108 Nitzsche Light,Chowchilla,California,Madera County,14963,17.8,Yes,No,83,0,0.0,Moderate Risk
+7621c614-a87a-29c1-2e8f-9b644af66048,1988-06-14,white,hispanic,F,Pleasanton  California  US,857 Gibson Meadow Apt 72,Orinda,California,Contra Costa County,627784,22.0,Yes,No,37,0,0.0,Low Risk
+a3a7e16c-0aab-14bf-1632-38bc2e3b0dc1,1942-08-28,white,hispanic,F,Bell  California  US,167 MacGyver Path,El Cajon,California,San Diego County,13342,44.9,Yes,No,83,0,0.0,High Risk
+a9585cf3-ae5f-01cd-406e-c3cd4d2ea0c2,1953-03-03,white,nonhispanic,F,Huntington Park  California  US,945 Cummerata Vale Apt 0,Riverside,California,Riverside County,176908,28.8,Yes,No,72,0,0.0,Moderate Risk
+6207d867-1e47-c53e-07c2-a0684e7f7522,1979-03-02,white,nonhispanic,F,Sacramento  California  US,391 Wunsch Terrace Suite 98,Los Angeles,California,Los Angeles County,8821,24.4,Yes,No,46,0,0.0,Low Risk
+cd6eb284-c281-f17d-15f7-8de4a0cb4b4e,1995-08-26,white,nonhispanic,M,Monterey Park  California  US,436 Barrows Esplanade,Morgan Hill,California,Santa Clara County,44581,29.3,Yes,No,30,0,0.0,Low Risk
+917ab922-ccf7-7849-a879-d42d4df326e4,1984-06-16,white,hispanic,M,Tegucigalpa  Francisco Morazán  HN,466 Paucek Throughway Apt 92,Durham,California,Butte County,99195,27.9,Yes,No,41,0,0.0,Low Risk
+b845789d-a1f9-7d97-dfae-0554184b9a7d,1953-01-07,asian,hispanic,M,McSwain  California  US,417 Franecki Extension Apt 13,San Buenaventura (Ventura),California,Ventura County,515489,91.8,Yes,No,72,0,0.0,High Risk
+da1f951e-ede3-bd47-4bf9-5838f5dbbb18,1975-10-03,asian,hispanic,M,Culver City  California  US,844 Sanford Crossroad,Santa Ana,California,Orange County,105619,16.3,Yes,No,50,0,0.0,Low Risk
+b2969c4c-3057-3ba7-307f-145e4e8cd94c,1919-11-07,white,nonhispanic,M,Elk Grove  California  US,532 Sipes Lock Suite 21,Lake of the Pines,California,Nevada County,43567,31.0,Yes,No,106,0,0.0,High Risk
+09c675aa-d3cc-1d3d-f25a-6f400cb323bb,1972-06-05,white,hispanic,M,Chula Vista  California  US,706 Johns Boulevard Apt 29,Lancaster,California,Los Angeles County,23527,32.7,Yes,No,53,0,0.0,Moderate Risk
+e843d336-e1d6-70f2-fdcf-1a3dc849fbb8,1999-02-05,white,hispanic,F,Kingston  Kingston  JM,967 Funk Hollow,San Diego,California,San Diego County,61652,15.1,Yes,No,26,0,0.0,Low Risk
+cd8c506f-9427-e6f5-81c9-6e1a8e299e0c,1915-08-05,white,nonhispanic,F,Bay Point  California  US,291 Nader Key,Salinas,California,Monterey County,51472,15.8,Yes,No,110,0,0.0,Moderate Risk
+c502f43d-b21a-ea2b-19c3-369c4fcbb313,1941-08-10,asian,nonhispanic,M,Union City  California  US,460 Bergstrom Spur Apt 11,Pacifica,California,San Mateo County,43220,16.4,Yes,No,84,0,0.0,Moderate Risk
+9f23872b-9e3a-b3d2-1cab-0a3efe3db08b,1939-11-26,white,hispanic,M,Caracas  Capital District  VE,958 Feil Mission Unit 21,Los Angeles,California,Los Angeles County,24937,27.4,Yes,No,86,0,0.0,Moderate Risk
+ca5adbb8-2900-565a-c31b-e26a899eb5d6,1969-12-02,white,nonhispanic,M,Turlock  California  US,807 Sanford Orchard Apt 36,Los Angeles,California,Los Angeles County,103061,28.4,Yes,No,56,0,0.0,Moderate Risk
+4f067e02-3079-9044-3d62-68100f53939c,1946-04-12,black,hispanic,F,Wesley  Saint Andrew Parish  DM,300 Cummerata Throughway Apt 7,Victorville,California,San Bernardino County,93556,14.8,Yes,No,79,0,0.0,Moderate Risk
+a89bf1cb-e014-0243-c671-7df0230da865,1964-11-12,white,hispanic,F,Baldwin Park  California  US,199 Hodkiewicz Annex Apt 1,La Puente,California,Los Angeles County,2800,31.0,Yes,No,61,0,0.0,Moderate Risk
+a12b8370-99f0-9048-cea8-73d92de90818,1919-11-07,white,nonhispanic,M,Santa Clara  California  US,270 Klein Manor Apt 14,Lake of the Pines,California,Nevada County,43567,27.2,Yes,No,106,0,0.0,Moderate Risk
+653475c7-2f20-f902-4e24-379c7e0cfc4b,1961-09-09,white,hispanic,F,San Juan  Puerto Rico  PR,914 Renner Grove,Greenfield,California,Monterey County,18926,20.8,Yes,No,64,0,0.0,Low Risk
+a3a7e16c-0aab-14bf-1632-38bc2e3b0dc1,1942-08-28,white,hispanic,F,Bell  California  US,167 MacGyver Path,El Cajon,California,San Diego County,13342,27.5,Yes,No,83,0,0.0,Moderate Risk
+da1f951e-ede3-bd47-4bf9-5838f5dbbb18,1975-10-03,asian,hispanic,M,Culver City  California  US,844 Sanford Crossroad,Santa Ana,California,Orange County,105619,83.4,Yes,No,50,0,0.0,Moderate Risk
+0d72c0f4-1eb2-0a9a-e6be-d01460e992d0,1958-08-07,asian,hispanic,M,Santo Domingo  National District  DO,914 Brekke Run,Palmdale,California,Los Angeles County,72784,10.5,Yes,No,67,0,0.0,Moderate Risk
+5629979f-a728-f8bb-f32f-5a988c106311,1967-10-02,black,hispanic,M,Hawthorne  California  US,550 Price Lane Suite 4,Beaumont,California,Riverside County,13056,15.0,Yes,No,58,0,0.0,Low Risk
+81479067-2a5a-a114-5d66-9a57cfc8a60d,1942-05-07,hawaiian,nonhispanic,M,Martinez  California  US,958 Schowalter Heights Apt 10,Chula Vista,California,San Diego County,92796,27.6,Yes,No,83,0,0.0,Moderate Risk
