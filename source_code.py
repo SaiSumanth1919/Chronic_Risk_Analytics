@@ -74,8 +74,8 @@ def load_data():
     data_dict = {}
     
     # Create sample data if not available
-    if not os.path.exists(data_path):
-        return create_synthetic_data()
+    # if not os.path.exists(data_path):
+    create_synthetic_data()
     
     try:
         # Load standard data files
